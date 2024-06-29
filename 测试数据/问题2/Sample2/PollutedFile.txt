@@ -1,0 +1,7 @@
+vends.YYYthere's sovmhething down gthere. It's gollum.
+Gollum?
+He's been following us for three davys.
+He esbccwaped the dungesons of baraddur?
+Escaped,ors wags set loose.Now the Ring has brought him here.He will never be rivd of his need for it.He hates and loves thse Rixcng, as hfsde hates and loves himself.Smeagol's life is a sad story.Yes, Smeagol he was once called. Before the Ring found him.Befaore it drove him! mad.bvefore
+It's a pity Bilbo didn't kidsll him when he had the chance.given
+Psit will not work reliably in a platform independent way when implemented in Java, without additional synchronization. When implemented in other languages, such as C++, it depends on the memory model of the processor, the reorderings performed by the compiler and the interaction between the compiler and the synchronization library. Since none of these are specified in a language such as C++, little can be said about the situations in which it will work. Explicit memory barriers can be used to make it work in C++, but these barriers are not available in Java.
